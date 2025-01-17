@@ -1,0 +1,37 @@
+1	idPrimary	bigint			No	None	AUTO_INCREMENT	Change Change	Drop Drop	
+More
+	2	accountcode	varchar(30)	utf8_general_ci		Yes	NULL		Change Change	Drop Drop	
+More
+	3	src	varchar(64)	utf8_general_ci		Yes	NULL		Change Change	Drop Drop	
+More
+	4	dst	varchar(64)	utf8_general_ci		Yes	NULL		Change Change	Drop Drop	
+More
+	5	dcontext	varchar(32)	utf8_general_ci		Yes	NULL		Change Change	Drop Drop	
+More
+	6	clid	varchar(64)	utf8_general_ci		Yes	NULL		Change Change	Drop Drop	
+More
+	7	channel	varchar(32)	utf8_general_ci		Yes	NULL		Change Change	Drop Drop	
+More
+	8	dstchannel	varchar(32)	utf8_general_ci		Yes	NULL		Change Change	Drop Drop	
+More
+	9	lastapp	varchar(32)	utf8_general_ci		Yes	NULL		Change Change	Drop Drop	
+More
+	10	lastdata	varchar(256)	utf8_general_ci		Yes	NULL		Change Change	Drop Drop	
+More
+	11	calldate	timestamp			No	None		Change Change	Drop Drop	
+More
+	12	answerdate	timestamp			No	None		Change Change	Drop Drop	
+More
+	13	hangupdate	timestamp			No	None		Change Change	Drop Drop	
+More
+	14	duration	int		UNSIGNED	Yes	NULL		Change Change	Drop Drop	
+More
+	15	billsec	int		UNSIGNED	Yes	NULL		Change Change	Drop Drop	
+More
+	16	disposition	varchar(32)	utf8_general_ci		Yes	NULL		Change Change	Drop Drop	
+More
+	17	amaflags	varchar(128)	utf8_general_ci		Yes	NULL		Change Change	Drop Drop	
+More
+	18	uniqueid	varchar(128)	utf8_general_ci		Yes	NULL		Change Change	Drop Drop	
+More
+	19	userfield	varchar(128)	utf8_general_ci		Yes	NULL

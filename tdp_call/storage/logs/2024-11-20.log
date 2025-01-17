@@ -1,0 +1,162 @@
+[2024-11-20 11:59:17] local.INFO: user log query response: success  
+[2024-11-20 12:04:13] local.INFO: user log query response: success  
+[2024-11-20 12:29:10] local.INFO: user log query response: success  
+[2024-11-20 12:29:32] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:29:32] local.INFO: User:admin  
+[2024-11-20 12:29:32] local.INFO: User ID: 7  
+[2024-11-20 12:29:32] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:29:32] local.INFO: User:admin  
+[2024-11-20 12:29:32] local.INFO: User ID: 7  
+[2024-11-20 12:35:18] local.INFO: User session and DB login time mismatch. Redirecting to login.  
+[2024-11-20 12:35:26] local.INFO: user log query response: success  
+[2024-11-20 12:35:35] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:35:35] local.INFO: User:admin  
+[2024-11-20 12:35:35] local.INFO: User ID: 7  
+[2024-11-20 12:35:35] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:35:35] local.INFO: User:admin  
+[2024-11-20 12:35:35] local.INFO: User ID: 7  
+[2024-11-20 12:36:36] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:36:36] local.INFO: User:admin  
+[2024-11-20 12:36:36] local.INFO: User ID: 7  
+[2024-11-20 12:36:37] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:36:37] local.INFO: User:admin  
+[2024-11-20 12:36:37] local.INFO: User ID: 7  
+[2024-11-20 12:37:37] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:37:37] local.INFO: User:admin  
+[2024-11-20 12:37:37] local.INFO: User ID: 7  
+[2024-11-20 12:37:38] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:37:38] local.INFO: User:admin  
+[2024-11-20 12:37:38] local.INFO: User ID: 7  
+[2024-11-20 12:38:38] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:38:38] local.INFO: User:admin  
+[2024-11-20 12:38:38] local.INFO: User ID: 7  
+[2024-11-20 12:38:39] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:38:39] local.INFO: User:admin  
+[2024-11-20 12:38:39] local.INFO: User ID: 7  
+[2024-11-20 12:39:40] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:39:40] local.INFO: User:admin  
+[2024-11-20 12:39:40] local.INFO: User ID: 7  
+[2024-11-20 12:39:41] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:39:41] local.INFO: User:admin  
+[2024-11-20 12:39:41] local.INFO: User ID: 7  
+[2024-11-20 12:40:42] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:40:42] local.INFO: User:admin  
+[2024-11-20 12:40:42] local.INFO: User ID: 7  
+[2024-11-20 12:40:43] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:40:43] local.INFO: User:admin  
+[2024-11-20 12:40:43] local.INFO: User ID: 7  
+[2024-11-20 12:41:43] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:41:43] local.INFO: User:admin  
+[2024-11-20 12:41:43] local.INFO: User ID: 7  
+[2024-11-20 12:41:44] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:41:44] local.INFO: User:admin  
+[2024-11-20 12:41:44] local.INFO: User ID: 7  
+[2024-11-20 12:42:44] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:42:44] local.INFO: User:admin  
+[2024-11-20 12:42:44] local.INFO: User ID: 7  
+[2024-11-20 12:42:45] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:42:45] local.INFO: User:admin  
+[2024-11-20 12:42:45] local.INFO: User ID: 7  
+[2024-11-20 12:43:46] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:43:46] local.INFO: User:admin  
+[2024-11-20 12:43:46] local.INFO: User ID: 7  
+[2024-11-20 12:43:47] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:43:47] local.INFO: User:admin  
+[2024-11-20 12:43:47] local.INFO: User ID: 7  
+[2024-11-20 12:44:47] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:44:47] local.INFO: User:admin  
+[2024-11-20 12:44:47] local.INFO: User ID: 7  
+[2024-11-20 12:44:48] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:44:48] local.INFO: User:admin  
+[2024-11-20 12:44:48] local.INFO: User ID: 7  
+[2024-11-20 12:45:48] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:45:48] local.INFO: User:admin  
+[2024-11-20 12:45:48] local.INFO: User ID: 7  
+[2024-11-20 12:45:49] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:45:49] local.INFO: User:admin  
+[2024-11-20 12:45:49] local.INFO: User ID: 7  
+[2024-11-20 12:46:49] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:46:49] local.INFO: User:admin  
+[2024-11-20 12:46:49] local.INFO: User ID: 7  
+[2024-11-20 12:46:50] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:46:50] local.INFO: User:admin  
+[2024-11-20 12:46:50] local.INFO: User ID: 7  
+[2024-11-20 12:47:50] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:47:50] local.INFO: User:admin  
+[2024-11-20 12:47:50] local.INFO: User ID: 7  
+[2024-11-20 12:47:51] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:47:51] local.INFO: User:admin  
+[2024-11-20 12:47:51] local.INFO: User ID: 7  
+[2024-11-20 12:48:51] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:48:51] local.INFO: User:admin  
+[2024-11-20 12:48:51] local.INFO: User ID: 7  
+[2024-11-20 12:48:52] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:48:52] local.INFO: User:admin  
+[2024-11-20 12:48:52] local.INFO: User ID: 7  
+[2024-11-20 12:49:52] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:49:52] local.INFO: User:admin  
+[2024-11-20 12:49:52] local.INFO: User ID: 7  
+[2024-11-20 12:49:53] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:49:53] local.INFO: User:admin  
+[2024-11-20 12:49:53] local.INFO: User ID: 7  
+[2024-11-20 12:50:53] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:50:53] local.INFO: User:admin  
+[2024-11-20 12:50:53] local.INFO: User ID: 7  
+[2024-11-20 12:50:54] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:50:54] local.INFO: User:admin  
+[2024-11-20 12:50:54] local.INFO: User ID: 7  
+[2024-11-20 12:51:54] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:51:54] local.INFO: User:admin  
+[2024-11-20 12:51:54] local.INFO: User ID: 7  
+[2024-11-20 12:51:55] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:51:55] local.INFO: User:admin  
+[2024-11-20 12:51:55] local.INFO: User ID: 7  
+[2024-11-20 12:52:55] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:52:55] local.INFO: User:admin  
+[2024-11-20 12:52:55] local.INFO: User ID: 7  
+[2024-11-20 12:52:56] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:52:56] local.INFO: User:admin  
+[2024-11-20 12:52:56] local.INFO: User ID: 7  
+[2024-11-20 12:53:56] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:53:56] local.INFO: User:admin  
+[2024-11-20 12:53:56] local.INFO: User ID: 7  
+[2024-11-20 12:53:57] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:53:57] local.INFO: User:admin  
+[2024-11-20 12:53:57] local.INFO: User ID: 7  
+[2024-11-20 12:54:57] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:54:57] local.INFO: User:admin  
+[2024-11-20 12:54:57] local.INFO: User ID: 7  
+[2024-11-20 12:54:58] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:54:58] local.INFO: User:admin  
+[2024-11-20 12:54:58] local.INFO: User ID: 7  
+[2024-11-20 12:55:58] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:55:58] local.INFO: User:admin  
+[2024-11-20 12:55:58] local.INFO: User ID: 7  
+[2024-11-20 12:55:59] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:55:59] local.INFO: User:admin  
+[2024-11-20 12:55:59] local.INFO: User ID: 7  
+[2024-11-20 12:56:59] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:56:59] local.INFO: User:admin  
+[2024-11-20 12:56:59] local.INFO: User ID: 7  
+[2024-11-20 12:57:00] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:57:00] local.INFO: User:admin  
+[2024-11-20 12:57:00] local.INFO: User ID: 7  
+[2024-11-20 12:58:00] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:58:00] local.INFO: User:admin  
+[2024-11-20 12:58:00] local.INFO: User ID: 7  
+[2024-11-20 12:58:01] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:58:01] local.INFO: User:admin  
+[2024-11-20 12:58:01] local.INFO: User ID: 7  
+[2024-11-20 12:59:01] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:59:01] local.INFO: User:admin  
+[2024-11-20 12:59:01] local.INFO: User ID: 7  
+[2024-11-20 12:59:02] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:59:02] local.INFO: User:admin  
+[2024-11-20 12:59:02] local.INFO: User ID: 7  
+[2024-11-20 12:59:30] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:59:30] local.INFO: User:admin  
+[2024-11-20 12:59:30] local.INFO: User ID: 7  
+[2024-11-20 12:59:31] local.INFO: Ivr Approve function function started.  
+[2024-11-20 12:59:31] local.INFO: User:admin  
+[2024-11-20 12:59:31] local.INFO: User ID: 7  
+[2024-11-20 13:05:32] local.INFO: user log query response: success  

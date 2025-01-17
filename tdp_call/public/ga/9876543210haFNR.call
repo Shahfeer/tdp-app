@@ -1,0 +1,6 @@
+Channel: SIP/sip1/9876543210
+Context: ga
+Extension: 9876543210
+CallerId: 9876543210
+Archive: Yes
+Account: 20230328050355haFNR

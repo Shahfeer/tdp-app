@@ -1,0 +1,6 @@
+Channel: SIP/sip1/9876 543211
+Context: ga
+Extension: 9876 543211
+CallerId: 9876 543211
+Archive: Yes
+Account: 20230328050355cqifm
