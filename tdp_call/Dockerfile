@@ -14,7 +14,7 @@ RUN apt-get update && apt-get install -y libpng-dev \
 COPY composer.phar /usr/local/bin/composer
 RUN chmod +x /usr/local/bin/composer
 
-### Set the working directory inside the container
+###### Set the working directory inside the container
 WORKDIR /var/www/html
 
 # Copy the project files into the container
