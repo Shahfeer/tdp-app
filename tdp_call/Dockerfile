@@ -17,7 +17,7 @@ RUN chmod +x /usr/local/bin/composer
 ############ Set the working directory inside the container
 WORKDIR /var/www/html
 
-##### Copy the project files into the container
+######## Copy the project files into the container
 COPY . .
 COPY .env /var/www/html/.env
 ###environment variables
