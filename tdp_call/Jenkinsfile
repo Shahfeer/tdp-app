@@ -1,14 +1,10 @@
 pipeline {
     agent any
 
-    environment {
-        KUBECONFIG = "/var/www/html"
-    }
-
     stages {
         stage('checkout') {
             steps {
-                git branch: 'main', changelog: false, credentialsId: '40f378b9-182b-4a21-b8db-0d62920a5453', poll: false, url: 'https://github.com/YeeJai/R-D.git'
+                git branch: 'main', changelog: false, credentialsId: 'Shahfeer-github', poll: false, url: 'https://github.com/Shahfeer/tdp_call.git'
             }
         }
 
