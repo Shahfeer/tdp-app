@@ -6,7 +6,7 @@ RUN apt-get update && apt-get install -y \
     libzip-dev unzip git curl \
     && docker-php-ext-install pdo pdo_mysql zip \
     && a2enmod rewrite
-# Add the GD extension for PHP
+#### Add the GD extension for PHP
 RUN apt-get update && apt-get install -y libpng-dev \
     && docker-php-ext-install gd
 
