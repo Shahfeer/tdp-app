@@ -1,4 +1,4 @@
-# Use an official PHP image with Apache
+################ Use an official PHP image with Apache
 FROM php:7.4-apache
 
 # Install necessary PHP extensions and dependencies
