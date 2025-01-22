@@ -28,7 +28,7 @@ ENV DB_DATABASE=tdp_calls
 ENV DB_USERNAME=admin
 ENV DB_PASSWORD=Password@123
 
-# Install PHP dependencies via Composer
+### Install PHP dependencies via Composer
 RUN composer install --no-dev --optimize-autoloader
 
 ################### Set file permissions
