@@ -20,7 +20,8 @@ WORKDIR /var/www/html
 ######## Copy the project files into the container
 COPY . .
 COPY .env /var/www/html/.env
-###environment variables
+
+######environment variables
 ENV DB_CONNECTION=mysql
 ENV DB_HOST=192.168.29.151
 ENV DB_PORT=3306
