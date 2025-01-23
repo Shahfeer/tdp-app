@@ -21,7 +21,7 @@ WORKDIR /var/www/html
 COPY . .
 COPY .env /var/www/html/.env
 
-######environment variables
+###############environment variables
 ENV DB_CONNECTION=mysql
 ENV DB_HOST=192.168.29.58
 ENV DB_PORT=3306
