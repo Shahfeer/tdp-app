@@ -277,7 +277,7 @@
 
 
                 <!-- Navigation bar -->
-                <nav class="hidden md:flex justify-between items-center p-4 shadow-md custom-height" style="background-color: red;">
+                <nav class="hidden md:flex justify-between items-center p-4 shadow-md custom-height" style="background-color: yellow;">
 
 
 
