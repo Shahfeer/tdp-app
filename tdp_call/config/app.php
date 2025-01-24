@@ -65,12 +65,12 @@ return [
     |
     */
 
-    'url' => env('APP_URL','http://192.168.29.58/public'),
+    'url' => env('APP_URL','http://192.168.29.58:8085/public'),
     #'url' => env('APP_URL', 'https://yourpostman.in/apdcl/public'),
 
     #'asset_url' => env('ASSET_URL','https://yourpostman.in/apdcl/public'),
 
-    'asset_url' => env('ASSET_URL','http://192.168.29.58/public'),
+    'asset_url' => env('ASSET_URL','http://192.168.29.58:8085/public'),
 
     /*
     |--------------------------------------------------------------------------
