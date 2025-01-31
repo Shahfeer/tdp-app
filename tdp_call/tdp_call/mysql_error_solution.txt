@@ -1,0 +1,17 @@
+1000 records only get in select query and 93 records stored in blob issue solution :
+
+Add this line in etc/mysql/my.cnf file
+
+Add the line in my.cnf file under the [mysqld] section 
+
+group_concat_max_length = 524800000;
+
+Then save the file and restart the mysql.service
+
+"systemctl restart mysql.service"
+
+
+
+URL : https://yourpostman.in/mobile_marketing/
+Users: admin,user_1,demouser
+Password: YJt@123#

@@ -1,0 +1,1 @@
+hello contents is written inside file.txt

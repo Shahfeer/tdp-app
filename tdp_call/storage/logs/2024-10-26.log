@@ -1,0 +1,842 @@
+[2024-10-26 07:37:26] local.INFO: User is not authenticated. Redirecting to login.  
+[2024-10-26 07:39:04] local.INFO: user log query response: success  
+[2024-10-26 07:39:17] local.INFO: credit_management function started.  
+[2024-10-26 07:39:17] local.INFO: Logged in user: admin  
+[2024-10-26 07:39:17] local.INFO: User master ID: 1  
+[2024-10-26 07:39:18] local.INFO: credit_management function started.  
+[2024-10-26 07:39:18] local.INFO: Logged in user: admin  
+[2024-10-26 07:39:18] local.INFO: User master ID: 1  
+[2024-10-26 07:39:22] local.INFO: credit_management function started.  
+[2024-10-26 07:39:22] local.INFO: Logged in user: admin  
+[2024-10-26 07:39:22] local.INFO: User master ID: 1  
+[2024-10-26 07:39:22] local.INFO: credit_management function started.  
+[2024-10-26 07:39:22] local.INFO: Logged in user: admin  
+[2024-10-26 07:39:22] local.INFO: User master ID: 1  
+[2024-10-26 07:39:35] local.INFO: campaign_list function started.  
+[2024-10-26 07:39:35] local.INFO: User:admin  
+[2024-10-26 07:39:35] local.INFO: User ID: 7  
+[2024-10-26 07:39:36] local.INFO: campaign_list function started.  
+[2024-10-26 07:39:36] local.INFO: User:admin  
+[2024-10-26 07:39:36] local.INFO: User ID: 7  
+[2024-10-26 07:39:44] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:39:44] local.INFO: User:admin  
+[2024-10-26 07:39:44] local.INFO: User ID: 7  
+[2024-10-26 07:39:45] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:39:45] local.INFO: User:admin  
+[2024-10-26 07:39:45] local.INFO: User ID: 7  
+[2024-10-26 07:39:59] local.INFO: approve campaign function started.  
+[2024-10-26 07:39:59] local.INFO: User:admin  
+[2024-10-26 07:40:00] local.INFO: approve campaign function started.  
+[2024-10-26 07:40:00] local.INFO: User:admin  
+[2024-10-26 07:40:00] local.INFO: Approve campaign displays data. {"query":[{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"FSH_AP_TEL_INFOR_7121_20241009144429808","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FSH_AP_TEL_INFOR_7121","mobile_numbers":3,"call_entry_time":"2024-10-09 14:44:29","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"RAT_AP_TEL_PROMO_7128_20241008182933737","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"RAT_AP_TEL_PROMO_7128","mobile_numbers":3,"call_entry_time":"2024-10-08 18:29:33","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241008143602660","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-08 14:36:02","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"BRE_AP_TEL_PROMO_7112_20241007153323312","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"BRE_AP_TEL_PROMO_7112","mobile_numbers":3,"call_entry_time":"2024-10-07 15:33:23","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"MED_AP_TEL_PROMO_7125_20241007125013843","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"MED_AP_TEL_PROMO_7125","mobile_numbers":3,"call_entry_time":"2024-10-07 12:50:13","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"PUB_AP_TEL_PROMO_7130_20241007124949926","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"PUB_AP_TEL_PROMO_7130","mobile_numbers":3,"call_entry_time":"2024-10-07 12:49:49","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"QUA_AP_TEL_INFOR_7119_20241007124808477","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"QUA_AP_TEL_INFOR_7119","mobile_numbers":3,"call_entry_time":"2024-10-07 12:48:08","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241007124708218","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-07 12:47:08","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"HHM_AP_TEL_PROMO_7106_20241007111601987","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HHM_AP_TEL_PROMO_7106","mobile_numbers":3,"call_entry_time":"2024-10-07 11:16:01","call_status":"C"}},{"stdClass":{"user_id":null,"user_name":null,"campaign_name":"FOO_AP_TEL_PROMO_7108_20240904190832676","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FOO_AP_TEL_PROMO_7108","mobile_numbers":3,"call_entry_time":"2024-09-04 19:08:32","call_status":"C"}}]} 
+[2024-10-26 07:40:05] local.INFO: campaign_list function started.  
+[2024-10-26 07:40:06] local.INFO: campaign_list function started.  
+[2024-10-26 07:40:06] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 07:40:15] local.INFO: summary_report function started.  
+[2024-10-26 07:40:15] local.INFO: User:admin  
+[2024-10-26 07:40:15] local.INFO: summary_report function started.  
+[2024-10-26 07:40:15] local.INFO: User:admin  
+[2024-10-26 07:40:15] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 07:40:19] local.INFO: summary_report function started.  
+[2024-10-26 07:40:19] local.INFO: User:admin  
+[2024-10-26 07:40:20] local.INFO: summary_report function started.  
+[2024-10-26 07:40:20] local.INFO: User:admin  
+[2024-10-26 07:40:20] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 07:40:38] local.INFO: detail_report function started.  
+[2024-10-26 07:40:39] local.INFO: detail_report function started.  
+[2024-10-26 07:40:39] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 07:40:44] local.INFO: dashboard function started.  
+[2024-10-26 07:41:44] local.INFO: dashboard function started.  
+[2024-10-26 07:43:21] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:43:21] local.INFO: User:admin  
+[2024-10-26 07:43:21] local.INFO: User ID: 7  
+[2024-10-26 07:43:22] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:43:22] local.INFO: User:admin  
+[2024-10-26 07:43:22] local.INFO: User ID: 7  
+[2024-10-26 07:44:22] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:44:22] local.INFO: User:admin  
+[2024-10-26 07:44:22] local.INFO: User ID: 7  
+[2024-10-26 07:44:23] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:44:23] local.INFO: User:admin  
+[2024-10-26 07:44:23] local.INFO: User ID: 7  
+[2024-10-26 07:44:24] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:44:24] local.INFO: User:admin  
+[2024-10-26 07:44:24] local.INFO: User ID: 7  
+[2024-10-26 07:44:40] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:44:40] local.INFO: User:admin  
+[2024-10-26 07:44:40] local.INFO: User ID: 7  
+[2024-10-26 07:44:41] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:44:41] local.INFO: User:admin  
+[2024-10-26 07:44:41] local.INFO: User ID: 7  
+[2024-10-26 07:45:41] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:45:41] local.INFO: User:admin  
+[2024-10-26 07:45:41] local.INFO: User ID: 7  
+[2024-10-26 07:45:42] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:45:42] local.INFO: User:admin  
+[2024-10-26 07:45:42] local.INFO: User ID: 7  
+[2024-10-26 07:46:26] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:46:26] local.INFO: User:admin  
+[2024-10-26 07:46:26] local.INFO: User ID: 7  
+[2024-10-26 07:46:27] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:46:27] local.INFO: User:admin  
+[2024-10-26 07:46:27] local.INFO: User ID: 7  
+[2024-10-26 07:46:48] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:46:48] local.INFO: User:admin  
+[2024-10-26 07:46:48] local.INFO: User ID: 7  
+[2024-10-26 07:46:52] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:46:52] local.INFO: User:admin  
+[2024-10-26 07:46:52] local.INFO: User ID: 7  
+[2024-10-26 07:46:55] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:46:55] local.INFO: User:admin  
+[2024-10-26 07:46:55] local.INFO: User ID: 7  
+[2024-10-26 07:48:18] local.INFO: User is not authenticated. Redirecting to login.  
+[2024-10-26 07:49:28] local.INFO: dashboard function started.  
+[2024-10-26 07:50:02] local.INFO: credit_management function started.  
+[2024-10-26 07:50:02] local.INFO: Logged in user: admin  
+[2024-10-26 07:50:02] local.INFO: User master ID: 1  
+[2024-10-26 07:50:03] local.INFO: credit_management function started.  
+[2024-10-26 07:50:03] local.INFO: Logged in user: admin  
+[2024-10-26 07:50:03] local.INFO: User master ID: 1  
+[2024-10-26 07:50:33] local.INFO: credit_management function started.  
+[2024-10-26 07:50:33] local.INFO: Logged in user: admin  
+[2024-10-26 07:50:33] local.INFO: User master ID: 1  
+[2024-10-26 07:51:03] local.INFO: credit_management function started.  
+[2024-10-26 07:51:03] local.INFO: Logged in user: admin  
+[2024-10-26 07:51:03] local.INFO: User master ID: 1  
+[2024-10-26 07:51:33] local.INFO: credit_management function started.  
+[2024-10-26 07:51:33] local.INFO: Logged in user: admin  
+[2024-10-26 07:51:33] local.INFO: User master ID: 1  
+[2024-10-26 07:51:52] local.INFO: credit_management function started.  
+[2024-10-26 07:51:52] local.INFO: Logged in user: admin  
+[2024-10-26 07:51:52] local.INFO: User master ID: 1  
+[2024-10-26 07:51:53] local.INFO: credit_management function started.  
+[2024-10-26 07:51:53] local.INFO: Logged in user: admin  
+[2024-10-26 07:51:53] local.INFO: User master ID: 1  
+[2024-10-26 07:52:23] local.INFO: credit_management function started.  
+[2024-10-26 07:52:23] local.INFO: Logged in user: admin  
+[2024-10-26 07:52:23] local.INFO: User master ID: 1  
+[2024-10-26 07:52:25] local.INFO: credit_management function started.  
+[2024-10-26 07:52:25] local.INFO: Logged in user: admin  
+[2024-10-26 07:52:25] local.INFO: User master ID: 1  
+[2024-10-26 07:52:26] local.INFO: credit_management function started.  
+[2024-10-26 07:52:26] local.INFO: Logged in user: admin  
+[2024-10-26 07:52:26] local.INFO: User master ID: 1  
+[2024-10-26 07:52:56] local.INFO: credit_management function started.  
+[2024-10-26 07:52:56] local.INFO: Logged in user: admin  
+[2024-10-26 07:52:56] local.INFO: User master ID: 1  
+[2024-10-26 07:53:26] local.INFO: credit_management function started.  
+[2024-10-26 07:53:26] local.INFO: Logged in user: admin  
+[2024-10-26 07:53:26] local.INFO: User master ID: 1  
+[2024-10-26 07:53:56] local.INFO: credit_management function started.  
+[2024-10-26 07:53:56] local.INFO: Logged in user: admin  
+[2024-10-26 07:53:56] local.INFO: User master ID: 1  
+[2024-10-26 07:54:01] local.INFO: credit_management function started.  
+[2024-10-26 07:54:01] local.INFO: Logged in user: admin  
+[2024-10-26 07:54:01] local.INFO: User master ID: 1  
+[2024-10-26 07:54:04] local.INFO: dashboard function started.  
+[2024-10-26 07:55:05] local.INFO: dashboard function started.  
+[2024-10-26 07:55:48] local.INFO: dashboard function started.  
+[2024-10-26 07:56:49] local.INFO: dashboard function started.  
+[2024-10-26 07:57:47] local.INFO: dashboard function started.  
+[2024-10-26 07:58:07] local.INFO: dashboard function started.  
+[2024-10-26 07:58:28] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:58:28] local.INFO: User:admin  
+[2024-10-26 07:58:28] local.INFO: User ID: 7  
+[2024-10-26 07:58:32] local.INFO: Ivr Approve function function started.  
+[2024-10-26 07:58:32] local.INFO: User:admin  
+[2024-10-26 07:58:32] local.INFO: User ID: 7  
+[2024-10-26 09:56:57] local.INFO: User is not authenticated. Redirecting to login.  
+[2024-10-26 09:57:24] local.INFO: user log query response: success  
+[2024-10-26 09:57:33] local.INFO: credit_management function started.  
+[2024-10-26 09:57:33] local.INFO: Logged in user: admin  
+[2024-10-26 09:57:33] local.INFO: User master ID: 1  
+[2024-10-26 09:57:34] local.INFO: credit_management function started.  
+[2024-10-26 09:57:34] local.INFO: Logged in user: admin  
+[2024-10-26 09:57:34] local.INFO: User master ID: 1  
+[2024-10-26 09:58:04] local.INFO: dashboard function started.  
+[2024-10-26 09:59:05] local.INFO: dashboard function started.  
+[2024-10-26 10:00:07] local.INFO: dashboard function started.  
+[2024-10-26 10:01:08] local.INFO: dashboard function started.  
+[2024-10-26 10:02:09] local.INFO: dashboard function started.  
+[2024-10-26 10:03:10] local.INFO: dashboard function started.  
+[2024-10-26 10:04:12] local.INFO: dashboard function started.  
+[2024-10-26 10:05:14] local.INFO: dashboard function started.  
+[2024-10-26 10:06:15] local.INFO: dashboard function started.  
+[2024-10-26 10:07:16] local.INFO: dashboard function started.  
+[2024-10-26 10:07:39] local.INFO: dashboard function started.  
+[2024-10-26 10:08:07] local.INFO: dashboard function started.  
+[2024-10-26 10:08:20] local.INFO: dashboard function started.  
+[2024-10-26 10:08:34] local.INFO: dashboard function started.  
+[2024-10-26 10:08:45] local.INFO: dashboard function started.  
+[2024-10-26 10:08:59] local.INFO: dashboard function started.  
+[2024-10-26 10:09:09] local.INFO: dashboard function started.  
+[2024-10-26 10:09:17] local.INFO: dashboard function started.  
+[2024-10-26 10:09:27] local.INFO: dashboard function started.  
+[2024-10-26 10:09:37] local.INFO: dashboard function started.  
+[2024-10-26 10:09:47] local.INFO: dashboard function started.  
+[2024-10-26 10:10:01] local.INFO: dashboard function started.  
+[2024-10-26 10:10:15] local.INFO: dashboard function started.  
+[2024-10-26 10:11:17] local.INFO: dashboard function started.  
+[2024-10-26 10:11:44] local.INFO: dashboard function started.  
+[2024-10-26 10:12:18] local.INFO: dashboard function started.  
+[2024-10-26 10:12:43] local.INFO: dashboard function started.  
+[2024-10-26 10:12:55] local.INFO: dashboard function started.  
+[2024-10-26 10:13:06] local.INFO: dashboard function started.  
+[2024-10-26 10:13:17] local.INFO: dashboard function started.  
+[2024-10-26 10:13:28] local.INFO: dashboard function started.  
+[2024-10-26 10:13:39] local.INFO: dashboard function started.  
+[2024-10-26 10:13:45] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:13:45] local.INFO: User:admin  
+[2024-10-26 10:13:45] local.INFO: User ID: 7  
+[2024-10-26 10:13:46] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:13:46] local.INFO: User:admin  
+[2024-10-26 10:13:46] local.INFO: User ID: 7  
+[2024-10-26 10:13:50] local.INFO: approve campaign function started.  
+[2024-10-26 10:13:50] local.INFO: User:admin  
+[2024-10-26 10:13:52] local.INFO: approve campaign function started.  
+[2024-10-26 10:13:52] local.INFO: User:admin  
+[2024-10-26 10:13:52] local.INFO: Approve campaign displays data. {"query":[{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"FSH_AP_TEL_INFOR_7121_20241009144429808","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FSH_AP_TEL_INFOR_7121","mobile_numbers":3,"call_entry_time":"2024-10-09 14:44:29","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"RAT_AP_TEL_PROMO_7128_20241008182933737","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"RAT_AP_TEL_PROMO_7128","mobile_numbers":3,"call_entry_time":"2024-10-08 18:29:33","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241008143602660","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-08 14:36:02","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"BRE_AP_TEL_PROMO_7112_20241007153323312","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"BRE_AP_TEL_PROMO_7112","mobile_numbers":3,"call_entry_time":"2024-10-07 15:33:23","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"MED_AP_TEL_PROMO_7125_20241007125013843","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"MED_AP_TEL_PROMO_7125","mobile_numbers":3,"call_entry_time":"2024-10-07 12:50:13","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"PUB_AP_TEL_PROMO_7130_20241007124949926","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"PUB_AP_TEL_PROMO_7130","mobile_numbers":3,"call_entry_time":"2024-10-07 12:49:49","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"QUA_AP_TEL_INFOR_7119_20241007124808477","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"QUA_AP_TEL_INFOR_7119","mobile_numbers":3,"call_entry_time":"2024-10-07 12:48:08","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241007124708218","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-07 12:47:08","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"HHM_AP_TEL_PROMO_7106_20241007111601987","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HHM_AP_TEL_PROMO_7106","mobile_numbers":3,"call_entry_time":"2024-10-07 11:16:01","call_status":"C"}},{"stdClass":{"user_id":null,"user_name":null,"campaign_name":"FOO_AP_TEL_PROMO_7108_20240904190832676","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FOO_AP_TEL_PROMO_7108","mobile_numbers":3,"call_entry_time":"2024-09-04 19:08:32","call_status":"C"}}]} 
+[2024-10-26 10:14:00] local.INFO: campaign_list function started.  
+[2024-10-26 10:14:02] local.INFO: campaign_list function started.  
+[2024-10-26 10:14:02] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 10:14:17] local.INFO: campaign_list function started.  
+[2024-10-26 10:14:19] local.INFO: campaign_list function started.  
+[2024-10-26 10:14:19] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 10:14:23] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:14:23] local.INFO: User:admin  
+[2024-10-26 10:14:23] local.INFO: User ID: 7  
+[2024-10-26 10:14:24] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:14:24] local.INFO: User:admin  
+[2024-10-26 10:14:24] local.INFO: User ID: 7  
+[2024-10-26 10:14:38] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:14:38] local.INFO: User:admin  
+[2024-10-26 10:14:38] local.INFO: User ID: 7  
+[2024-10-26 10:14:40] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:14:40] local.INFO: User:admin  
+[2024-10-26 10:14:40] local.INFO: User ID: 7  
+[2024-10-26 10:14:49] local.INFO: approve campaign function started.  
+[2024-10-26 10:14:49] local.INFO: User:admin  
+[2024-10-26 10:14:50] local.INFO: approve campaign function started.  
+[2024-10-26 10:14:50] local.INFO: User:admin  
+[2024-10-26 10:14:50] local.INFO: Approve campaign displays data. {"query":[{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"FSH_AP_TEL_INFOR_7121_20241009144429808","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FSH_AP_TEL_INFOR_7121","mobile_numbers":3,"call_entry_time":"2024-10-09 14:44:29","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"RAT_AP_TEL_PROMO_7128_20241008182933737","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"RAT_AP_TEL_PROMO_7128","mobile_numbers":3,"call_entry_time":"2024-10-08 18:29:33","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241008143602660","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-08 14:36:02","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"BRE_AP_TEL_PROMO_7112_20241007153323312","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"BRE_AP_TEL_PROMO_7112","mobile_numbers":3,"call_entry_time":"2024-10-07 15:33:23","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"MED_AP_TEL_PROMO_7125_20241007125013843","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"MED_AP_TEL_PROMO_7125","mobile_numbers":3,"call_entry_time":"2024-10-07 12:50:13","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"PUB_AP_TEL_PROMO_7130_20241007124949926","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"PUB_AP_TEL_PROMO_7130","mobile_numbers":3,"call_entry_time":"2024-10-07 12:49:49","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"QUA_AP_TEL_INFOR_7119_20241007124808477","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"QUA_AP_TEL_INFOR_7119","mobile_numbers":3,"call_entry_time":"2024-10-07 12:48:08","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241007124708218","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-07 12:47:08","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"HHM_AP_TEL_PROMO_7106_20241007111601987","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HHM_AP_TEL_PROMO_7106","mobile_numbers":3,"call_entry_time":"2024-10-07 11:16:01","call_status":"C"}},{"stdClass":{"user_id":null,"user_name":null,"campaign_name":"FOO_AP_TEL_PROMO_7108_20240904190832676","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FOO_AP_TEL_PROMO_7108","mobile_numbers":3,"call_entry_time":"2024-09-04 19:08:32","call_status":"C"}}]} 
+[2024-10-26 10:14:56] local.INFO: credit_management function started.  
+[2024-10-26 10:14:56] local.INFO: Logged in user: admin  
+[2024-10-26 10:14:56] local.INFO: User master ID: 1  
+[2024-10-26 10:14:57] local.INFO: credit_management function started.  
+[2024-10-26 10:14:57] local.INFO: Logged in user: admin  
+[2024-10-26 10:14:57] local.INFO: User master ID: 1  
+[2024-10-26 10:15:00] local.INFO: credit_management function started.  
+[2024-10-26 10:15:00] local.INFO: Logged in user: admin  
+[2024-10-26 10:15:00] local.INFO: User master ID: 1  
+[2024-10-26 10:15:01] local.INFO: credit_management function started.  
+[2024-10-26 10:15:01] local.INFO: Logged in user: admin  
+[2024-10-26 10:15:01] local.INFO: User master ID: 1  
+[2024-10-26 10:15:11] local.INFO: campaign_list function started.  
+[2024-10-26 10:15:11] local.INFO: User:admin  
+[2024-10-26 10:15:11] local.INFO: User ID: 7  
+[2024-10-26 10:15:11] local.INFO: campaign_list function started.  
+[2024-10-26 10:15:11] local.INFO: User:admin  
+[2024-10-26 10:15:11] local.INFO: User ID: 7  
+[2024-10-26 10:15:16] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:15:16] local.INFO: User:admin  
+[2024-10-26 10:15:16] local.INFO: User ID: 7  
+[2024-10-26 10:15:17] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:15:17] local.INFO: User:admin  
+[2024-10-26 10:15:17] local.INFO: User ID: 7  
+[2024-10-26 10:16:41] local.INFO: approve campaign function started.  
+[2024-10-26 10:16:41] local.INFO: User:admin  
+[2024-10-26 10:16:42] local.INFO: approve campaign function started.  
+[2024-10-26 10:16:42] local.INFO: User:admin  
+[2024-10-26 10:16:42] local.INFO: Approve campaign displays data. {"query":[{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"FSH_AP_TEL_INFOR_7121_20241009144429808","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FSH_AP_TEL_INFOR_7121","mobile_numbers":3,"call_entry_time":"2024-10-09 14:44:29","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"RAT_AP_TEL_PROMO_7128_20241008182933737","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"RAT_AP_TEL_PROMO_7128","mobile_numbers":3,"call_entry_time":"2024-10-08 18:29:33","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241008143602660","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-08 14:36:02","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"BRE_AP_TEL_PROMO_7112_20241007153323312","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"BRE_AP_TEL_PROMO_7112","mobile_numbers":3,"call_entry_time":"2024-10-07 15:33:23","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"MED_AP_TEL_PROMO_7125_20241007125013843","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"MED_AP_TEL_PROMO_7125","mobile_numbers":3,"call_entry_time":"2024-10-07 12:50:13","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"PUB_AP_TEL_PROMO_7130_20241007124949926","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"PUB_AP_TEL_PROMO_7130","mobile_numbers":3,"call_entry_time":"2024-10-07 12:49:49","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"QUA_AP_TEL_INFOR_7119_20241007124808477","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"QUA_AP_TEL_INFOR_7119","mobile_numbers":3,"call_entry_time":"2024-10-07 12:48:08","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241007124708218","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-07 12:47:08","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"HHM_AP_TEL_PROMO_7106_20241007111601987","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HHM_AP_TEL_PROMO_7106","mobile_numbers":3,"call_entry_time":"2024-10-07 11:16:01","call_status":"C"}},{"stdClass":{"user_id":null,"user_name":null,"campaign_name":"FOO_AP_TEL_PROMO_7108_20240904190832676","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FOO_AP_TEL_PROMO_7108","mobile_numbers":3,"call_entry_time":"2024-09-04 19:08:32","call_status":"C"}}]} 
+[2024-10-26 10:16:46] local.INFO: campaign_list function started.  
+[2024-10-26 10:16:47] local.INFO: campaign_list function started.  
+[2024-10-26 10:16:47] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 10:16:55] local.INFO: summary_report function started.  
+[2024-10-26 10:16:55] local.INFO: User:admin  
+[2024-10-26 10:16:57] local.INFO: summary_report function started.  
+[2024-10-26 10:16:57] local.INFO: User:admin  
+[2024-10-26 10:16:57] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 10:20:24] local.INFO: user log query response: success  
+[2024-10-26 10:20:29] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:20:29] local.INFO: User:admin  
+[2024-10-26 10:20:29] local.INFO: User ID: 7  
+[2024-10-26 10:20:31] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:20:31] local.INFO: User:admin  
+[2024-10-26 10:20:31] local.INFO: User ID: 7  
+[2024-10-26 10:20:39] local.INFO: dashboard function started.  
+[2024-10-26 10:20:59] local.INFO: credit_management function started.  
+[2024-10-26 10:20:59] local.INFO: Logged in user: admin  
+[2024-10-26 10:20:59] local.INFO: User master ID: 1  
+[2024-10-26 10:21:00] local.INFO: credit_management function started.  
+[2024-10-26 10:21:00] local.INFO: Logged in user: admin  
+[2024-10-26 10:21:00] local.INFO: User master ID: 1  
+[2024-10-26 10:21:05] local.INFO: credit_management function started.  
+[2024-10-26 10:21:05] local.INFO: Logged in user: admin  
+[2024-10-26 10:21:05] local.INFO: User master ID: 1  
+[2024-10-26 10:21:06] local.INFO: credit_management function started.  
+[2024-10-26 10:21:06] local.INFO: Logged in user: admin  
+[2024-10-26 10:21:06] local.INFO: User master ID: 1  
+[2024-10-26 10:21:18] local.INFO: campaign_list function started.  
+[2024-10-26 10:21:18] local.INFO: User:admin  
+[2024-10-26 10:21:18] local.INFO: User ID: 7  
+[2024-10-26 10:21:19] local.INFO: campaign_list function started.  
+[2024-10-26 10:21:19] local.INFO: User:admin  
+[2024-10-26 10:21:19] local.INFO: User ID: 7  
+[2024-10-26 10:21:23] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:21:23] local.INFO: User:admin  
+[2024-10-26 10:21:23] local.INFO: User ID: 7  
+[2024-10-26 10:21:24] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:21:24] local.INFO: User:admin  
+[2024-10-26 10:21:24] local.INFO: User ID: 7  
+[2024-10-26 10:21:36] local.INFO: approve campaign function started.  
+[2024-10-26 10:21:36] local.INFO: User:admin  
+[2024-10-26 10:21:37] local.INFO: approve campaign function started.  
+[2024-10-26 10:21:37] local.INFO: User:admin  
+[2024-10-26 10:21:37] local.INFO: Approve campaign displays data. {"query":[{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"FSH_AP_TEL_INFOR_7121_20241009144429808","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FSH_AP_TEL_INFOR_7121","mobile_numbers":3,"call_entry_time":"2024-10-09 14:44:29","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"RAT_AP_TEL_PROMO_7128_20241008182933737","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"RAT_AP_TEL_PROMO_7128","mobile_numbers":3,"call_entry_time":"2024-10-08 18:29:33","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241008143602660","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-08 14:36:02","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"BRE_AP_TEL_PROMO_7112_20241007153323312","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"BRE_AP_TEL_PROMO_7112","mobile_numbers":3,"call_entry_time":"2024-10-07 15:33:23","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"MED_AP_TEL_PROMO_7125_20241007125013843","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"MED_AP_TEL_PROMO_7125","mobile_numbers":3,"call_entry_time":"2024-10-07 12:50:13","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"PUB_AP_TEL_PROMO_7130_20241007124949926","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"PUB_AP_TEL_PROMO_7130","mobile_numbers":3,"call_entry_time":"2024-10-07 12:49:49","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"QUA_AP_TEL_INFOR_7119_20241007124808477","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"QUA_AP_TEL_INFOR_7119","mobile_numbers":3,"call_entry_time":"2024-10-07 12:48:08","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241007124708218","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-07 12:47:08","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"HHM_AP_TEL_PROMO_7106_20241007111601987","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HHM_AP_TEL_PROMO_7106","mobile_numbers":3,"call_entry_time":"2024-10-07 11:16:01","call_status":"C"}},{"stdClass":{"user_id":null,"user_name":null,"campaign_name":"FOO_AP_TEL_PROMO_7108_20240904190832676","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FOO_AP_TEL_PROMO_7108","mobile_numbers":3,"call_entry_time":"2024-09-04 19:08:32","call_status":"C"}}]} 
+[2024-10-26 10:21:41] local.INFO: campaign_list function started.  
+[2024-10-26 10:21:42] local.INFO: campaign_list function started.  
+[2024-10-26 10:21:42] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 10:21:49] local.INFO: summary_report function started.  
+[2024-10-26 10:21:49] local.INFO: User:admin  
+[2024-10-26 10:21:49] local.INFO: summary_report function started.  
+[2024-10-26 10:21:49] local.INFO: User:admin  
+[2024-10-26 10:21:49] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 10:21:54] local.INFO: summary_report function started.  
+[2024-10-26 10:21:54] local.INFO: User:admin  
+[2024-10-26 10:21:54] local.INFO: summary_report function started.  
+[2024-10-26 10:21:54] local.INFO: User:admin  
+[2024-10-26 10:21:54] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 10:21:57] local.INFO: detail_report function started.  
+[2024-10-26 10:21:58] local.INFO: detail_report function started.  
+[2024-10-26 10:21:58] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 10:22:03] local.INFO: dashboard function started.  
+[2024-10-26 10:22:14] local.INFO: credit_management function started.  
+[2024-10-26 10:22:14] local.INFO: Logged in user: admin  
+[2024-10-26 10:22:14] local.INFO: User master ID: 1  
+[2024-10-26 10:22:15] local.INFO: credit_management function started.  
+[2024-10-26 10:22:15] local.INFO: Logged in user: admin  
+[2024-10-26 10:22:15] local.INFO: User master ID: 1  
+[2024-10-26 10:22:45] local.INFO: credit_management function started.  
+[2024-10-26 10:22:45] local.INFO: Logged in user: admin  
+[2024-10-26 10:22:45] local.INFO: User master ID: 1  
+[2024-10-26 10:22:59] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:22:59] local.INFO: User:admin  
+[2024-10-26 10:22:59] local.INFO: User ID: 7  
+[2024-10-26 10:23:00] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:23:00] local.INFO: User:admin  
+[2024-10-26 10:23:00] local.INFO: User ID: 7  
+[2024-10-26 10:23:22] local.INFO: approve campaign function started.  
+[2024-10-26 10:23:22] local.INFO: User:admin  
+[2024-10-26 10:23:23] local.INFO: approve campaign function started.  
+[2024-10-26 10:23:23] local.INFO: User:admin  
+[2024-10-26 10:23:23] local.INFO: Approve campaign displays data. {"query":[{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"FSH_AP_TEL_INFOR_7121_20241009144429808","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FSH_AP_TEL_INFOR_7121","mobile_numbers":3,"call_entry_time":"2024-10-09 14:44:29","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"RAT_AP_TEL_PROMO_7128_20241008182933737","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"RAT_AP_TEL_PROMO_7128","mobile_numbers":3,"call_entry_time":"2024-10-08 18:29:33","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241008143602660","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-08 14:36:02","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"BRE_AP_TEL_PROMO_7112_20241007153323312","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"BRE_AP_TEL_PROMO_7112","mobile_numbers":3,"call_entry_time":"2024-10-07 15:33:23","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"MED_AP_TEL_PROMO_7125_20241007125013843","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"MED_AP_TEL_PROMO_7125","mobile_numbers":3,"call_entry_time":"2024-10-07 12:50:13","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"PUB_AP_TEL_PROMO_7130_20241007124949926","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"PUB_AP_TEL_PROMO_7130","mobile_numbers":3,"call_entry_time":"2024-10-07 12:49:49","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"QUA_AP_TEL_INFOR_7119_20241007124808477","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"QUA_AP_TEL_INFOR_7119","mobile_numbers":3,"call_entry_time":"2024-10-07 12:48:08","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241007124708218","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-07 12:47:08","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"HHM_AP_TEL_PROMO_7106_20241007111601987","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HHM_AP_TEL_PROMO_7106","mobile_numbers":3,"call_entry_time":"2024-10-07 11:16:01","call_status":"C"}},{"stdClass":{"user_id":null,"user_name":null,"campaign_name":"FOO_AP_TEL_PROMO_7108_20240904190832676","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FOO_AP_TEL_PROMO_7108","mobile_numbers":3,"call_entry_time":"2024-09-04 19:08:32","call_status":"C"}}]} 
+[2024-10-26 10:23:30] local.INFO: campaign_list function started.  
+[2024-10-26 10:23:30] local.INFO: campaign_list function started.  
+[2024-10-26 10:23:30] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 10:34:53] local.INFO: user log query response: success  
+[2024-10-26 10:38:32] local.INFO: credit_management function started.  
+[2024-10-26 10:38:32] local.INFO: Logged in user: admin  
+[2024-10-26 10:38:32] local.INFO: User master ID: 1  
+[2024-10-26 10:38:34] local.INFO: credit_management function started.  
+[2024-10-26 10:38:34] local.INFO: Logged in user: admin  
+[2024-10-26 10:38:34] local.INFO: User master ID: 1  
+[2024-10-26 10:38:37] local.INFO: credit_management function started.  
+[2024-10-26 10:38:37] local.INFO: Logged in user: admin  
+[2024-10-26 10:38:37] local.INFO: User master ID: 1  
+[2024-10-26 10:38:38] local.INFO: credit_management function started.  
+[2024-10-26 10:38:38] local.INFO: Logged in user: admin  
+[2024-10-26 10:38:38] local.INFO: User master ID: 1  
+[2024-10-26 10:48:16] local.INFO: campaign_list function started.  
+[2024-10-26 10:48:16] local.INFO: User:admin  
+[2024-10-26 10:48:16] local.INFO: User ID: 7  
+[2024-10-26 10:48:17] local.INFO: campaign_list function started.  
+[2024-10-26 10:48:17] local.INFO: User:admin  
+[2024-10-26 10:48:17] local.INFO: User ID: 7  
+[2024-10-26 10:48:21] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:48:21] local.INFO: User:admin  
+[2024-10-26 10:48:21] local.INFO: User ID: 7  
+[2024-10-26 10:48:22] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:48:22] local.INFO: User:admin  
+[2024-10-26 10:48:22] local.INFO: User ID: 7  
+[2024-10-26 10:49:22] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:49:22] local.INFO: User:admin  
+[2024-10-26 10:49:22] local.INFO: User ID: 7  
+[2024-10-26 10:49:23] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:49:23] local.INFO: User:admin  
+[2024-10-26 10:49:23] local.INFO: User ID: 7  
+[2024-10-26 10:49:39] local.INFO: campaign_list function started.  
+[2024-10-26 10:49:39] local.INFO: User:admin  
+[2024-10-26 10:49:39] local.INFO: User ID: 7  
+[2024-10-26 10:49:40] local.INFO: campaign_list function started.  
+[2024-10-26 10:49:40] local.INFO: User:admin  
+[2024-10-26 10:49:40] local.INFO: User ID: 7  
+[2024-10-26 10:49:48] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:49:48] local.INFO: User:admin  
+[2024-10-26 10:49:48] local.INFO: User ID: 7  
+[2024-10-26 10:49:48] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:49:48] local.INFO: User:admin  
+[2024-10-26 10:49:48] local.INFO: User ID: 7  
+[2024-10-26 10:51:23] local.INFO: campaign_list function started.  
+[2024-10-26 10:51:23] local.INFO: User:admin  
+[2024-10-26 10:51:23] local.INFO: User ID: 7  
+[2024-10-26 10:51:25] local.INFO: campaign_list function started.  
+[2024-10-26 10:51:25] local.INFO: User:admin  
+[2024-10-26 10:51:25] local.INFO: User ID: 7  
+[2024-10-26 10:51:33] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:51:33] local.INFO: User:admin  
+[2024-10-26 10:51:33] local.INFO: User ID: 7  
+[2024-10-26 10:51:34] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:51:34] local.INFO: User:admin  
+[2024-10-26 10:51:34] local.INFO: User ID: 7  
+[2024-10-26 10:51:45] local.INFO: approve campaign function started.  
+[2024-10-26 10:51:45] local.INFO: User:admin  
+[2024-10-26 10:51:45] local.INFO: approve campaign function started.  
+[2024-10-26 10:51:45] local.INFO: User:admin  
+[2024-10-26 10:51:45] local.INFO: Approve campaign displays data. {"query":[{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"FSH_AP_TEL_INFOR_7121_20241009144429808","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FSH_AP_TEL_INFOR_7121","mobile_numbers":3,"call_entry_time":"2024-10-09 14:44:29","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"RAT_AP_TEL_PROMO_7128_20241008182933737","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"RAT_AP_TEL_PROMO_7128","mobile_numbers":3,"call_entry_time":"2024-10-08 18:29:33","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241008143602660","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-08 14:36:02","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"BRE_AP_TEL_PROMO_7112_20241007153323312","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"BRE_AP_TEL_PROMO_7112","mobile_numbers":3,"call_entry_time":"2024-10-07 15:33:23","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"MED_AP_TEL_PROMO_7125_20241007125013843","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"MED_AP_TEL_PROMO_7125","mobile_numbers":3,"call_entry_time":"2024-10-07 12:50:13","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"PUB_AP_TEL_PROMO_7130_20241007124949926","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"PUB_AP_TEL_PROMO_7130","mobile_numbers":3,"call_entry_time":"2024-10-07 12:49:49","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"QUA_AP_TEL_INFOR_7119_20241007124808477","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"QUA_AP_TEL_INFOR_7119","mobile_numbers":3,"call_entry_time":"2024-10-07 12:48:08","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241007124708218","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-07 12:47:08","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"HHM_AP_TEL_PROMO_7106_20241007111601987","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HHM_AP_TEL_PROMO_7106","mobile_numbers":3,"call_entry_time":"2024-10-07 11:16:01","call_status":"C"}},{"stdClass":{"user_id":null,"user_name":null,"campaign_name":"FOO_AP_TEL_PROMO_7108_20240904190832676","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FOO_AP_TEL_PROMO_7108","mobile_numbers":3,"call_entry_time":"2024-09-04 19:08:32","call_status":"C"}}]} 
+[2024-10-26 10:51:51] local.INFO: campaign_list function started.  
+[2024-10-26 10:51:52] local.INFO: campaign_list function started.  
+[2024-10-26 10:51:52] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 10:52:01] local.INFO: summary_report function started.  
+[2024-10-26 10:52:01] local.INFO: User:admin  
+[2024-10-26 10:52:02] local.INFO: summary_report function started.  
+[2024-10-26 10:52:02] local.INFO: User:admin  
+[2024-10-26 10:52:02] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 10:52:05] local.INFO: summary_report function started.  
+[2024-10-26 10:52:05] local.INFO: User:admin  
+[2024-10-26 10:52:06] local.INFO: summary_report function started.  
+[2024-10-26 10:52:06] local.INFO: User:admin  
+[2024-10-26 10:52:06] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 10:52:09] local.INFO: detail_report function started.  
+[2024-10-26 10:52:10] local.INFO: detail_report function started.  
+[2024-10-26 10:52:10] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 10:52:13] local.INFO: dashboard function started.  
+[2024-10-26 10:52:33] local.INFO: user log query response: success  
+[2024-10-26 10:52:42] local.INFO: campaign_list function started.  
+[2024-10-26 10:52:42] local.INFO: User:TDP  
+[2024-10-26 10:52:42] local.INFO: User ID: 54  
+[2024-10-26 10:52:43] local.INFO: campaign_list function started.  
+[2024-10-26 10:52:43] local.INFO: User:TDP  
+[2024-10-26 10:52:43] local.INFO: User ID: 54  
+[2024-10-26 10:52:51] local.INFO: campaign_list function started.  
+[2024-10-26 10:52:52] local.INFO: campaign_list function started.  
+[2024-10-26 10:52:52] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 10:52:55] local.INFO: summary_report function started.  
+[2024-10-26 10:52:55] local.INFO: User:TDP  
+[2024-10-26 10:52:56] local.INFO: summary_report function started.  
+[2024-10-26 10:52:56] local.INFO: User:TDP  
+[2024-10-26 10:52:56] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 10:53:01] local.INFO: summary_report function started.  
+[2024-10-26 10:53:01] local.INFO: User:TDP  
+[2024-10-26 10:53:01] local.INFO: summary_report function started.  
+[2024-10-26 10:53:01] local.INFO: User:TDP  
+[2024-10-26 10:53:01] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 10:53:05] local.INFO: detail_report function started.  
+[2024-10-26 10:53:05] local.INFO: detail_report function started.  
+[2024-10-26 10:53:05] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 10:53:11] local.INFO: dashboard function started.  
+[2024-10-26 10:54:12] local.INFO: dashboard function started.  
+[2024-10-26 10:55:05] local.INFO: dashboard function started.  
+[2024-10-26 10:55:27] local.INFO: dashboard function started.  
+[2024-10-26 10:55:42] local.INFO: dashboard function started.  
+[2024-10-26 10:56:44] local.INFO: dashboard function started.  
+[2024-10-26 10:57:11] local.INFO: dashboard function started.  
+[2024-10-26 10:57:51] local.INFO: create campaign_list function started.  
+[2024-10-26 10:57:51] local.INFO: User:TDP  
+[2024-10-26 10:57:51] local.INFO: User Id: 54,  Campaign Name: HOS_AP_TEL_INFOR_7117_20241026105751881Context: HOS_AP_TEL_INFOR_7117retry_count: 0retry_time: campaign_type: N  
+[2024-10-26 10:57:51] local.INFO: create campaign query response: success  
+[2024-10-26 10:57:57] local.INFO: campaign_list function started.  
+[2024-10-26 10:57:58] local.INFO: campaign_list function started.  
+[2024-10-26 10:57:58] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 10:58:06] local.INFO: summary_report function started.  
+[2024-10-26 10:58:06] local.INFO: User:TDP  
+[2024-10-26 10:58:07] local.INFO: summary_report function started.  
+[2024-10-26 10:58:07] local.INFO: User:TDP  
+[2024-10-26 10:58:07] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 10:58:09] local.INFO: dashboard function started.  
+[2024-10-26 10:58:51] local.INFO: User is not authenticated. Redirecting to login.  
+[2024-10-26 10:59:10] local.INFO: dashboard function started.  
+[2024-10-26 10:59:25] local.INFO: user log query response: success  
+[2024-10-26 10:59:30] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:59:30] local.INFO: User:admin  
+[2024-10-26 10:59:30] local.INFO: User ID: 7  
+[2024-10-26 10:59:30] local.INFO: Ivr Approve function function started.  
+[2024-10-26 10:59:30] local.INFO: User:admin  
+[2024-10-26 10:59:30] local.INFO: User ID: 7  
+[2024-10-26 10:59:33] local.INFO: approve campaign function started.  
+[2024-10-26 10:59:33] local.INFO: User:admin  
+[2024-10-26 10:59:39] local.INFO: approve campaign function started.  
+[2024-10-26 10:59:39] local.INFO: User:admin  
+[2024-10-26 10:59:39] local.INFO: Approve campaign displays data. {"query":[{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241026105751881","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-26 10:57:51","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"FSH_AP_TEL_INFOR_7121_20241009144429808","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FSH_AP_TEL_INFOR_7121","mobile_numbers":3,"call_entry_time":"2024-10-09 14:44:29","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"RAT_AP_TEL_PROMO_7128_20241008182933737","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"RAT_AP_TEL_PROMO_7128","mobile_numbers":3,"call_entry_time":"2024-10-08 18:29:33","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241008143602660","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-08 14:36:02","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"BRE_AP_TEL_PROMO_7112_20241007153323312","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"BRE_AP_TEL_PROMO_7112","mobile_numbers":3,"call_entry_time":"2024-10-07 15:33:23","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"MED_AP_TEL_PROMO_7125_20241007125013843","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"MED_AP_TEL_PROMO_7125","mobile_numbers":3,"call_entry_time":"2024-10-07 12:50:13","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"PUB_AP_TEL_PROMO_7130_20241007124949926","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"PUB_AP_TEL_PROMO_7130","mobile_numbers":3,"call_entry_time":"2024-10-07 12:49:49","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"QUA_AP_TEL_INFOR_7119_20241007124808477","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"QUA_AP_TEL_INFOR_7119","mobile_numbers":3,"call_entry_time":"2024-10-07 12:48:08","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241007124708218","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-07 12:47:08","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"HHM_AP_TEL_PROMO_7106_20241007111601987","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HHM_AP_TEL_PROMO_7106","mobile_numbers":3,"call_entry_time":"2024-10-07 11:16:01","call_status":"C"}},{"stdClass":{"user_id":null,"user_name":null,"campaign_name":"FOO_AP_TEL_PROMO_7108_20240904190832676","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FOO_AP_TEL_PROMO_7108","mobile_numbers":3,"call_entry_time":"2024-09-04 19:08:32","call_status":"C"}}]} 
+[2024-10-26 10:59:44] local.INFO: approve campaign function started.  
+[2024-10-26 10:59:44] local.INFO: User:admin  
+[2024-10-26 10:59:44] local.INFO: Approve campaign displays data. {"query":[{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241026105751881","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-26 10:57:51","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"FSH_AP_TEL_INFOR_7121_20241009144429808","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FSH_AP_TEL_INFOR_7121","mobile_numbers":3,"call_entry_time":"2024-10-09 14:44:29","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"RAT_AP_TEL_PROMO_7128_20241008182933737","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"RAT_AP_TEL_PROMO_7128","mobile_numbers":3,"call_entry_time":"2024-10-08 18:29:33","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241008143602660","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-08 14:36:02","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"BRE_AP_TEL_PROMO_7112_20241007153323312","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"BRE_AP_TEL_PROMO_7112","mobile_numbers":3,"call_entry_time":"2024-10-07 15:33:23","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"MED_AP_TEL_PROMO_7125_20241007125013843","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"MED_AP_TEL_PROMO_7125","mobile_numbers":3,"call_entry_time":"2024-10-07 12:50:13","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"PUB_AP_TEL_PROMO_7130_20241007124949926","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"PUB_AP_TEL_PROMO_7130","mobile_numbers":3,"call_entry_time":"2024-10-07 12:49:49","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"QUA_AP_TEL_INFOR_7119_20241007124808477","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"QUA_AP_TEL_INFOR_7119","mobile_numbers":3,"call_entry_time":"2024-10-07 12:48:08","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241007124708218","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-07 12:47:08","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"HHM_AP_TEL_PROMO_7106_20241007111601987","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HHM_AP_TEL_PROMO_7106","mobile_numbers":3,"call_entry_time":"2024-10-07 11:16:01","call_status":"C"}},{"stdClass":{"user_id":null,"user_name":null,"campaign_name":"FOO_AP_TEL_PROMO_7108_20240904190832676","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FOO_AP_TEL_PROMO_7108","mobile_numbers":3,"call_entry_time":"2024-09-04 19:08:32","call_status":"C"}}]} 
+[2024-10-26 11:00:12] local.INFO: dashboard function started.  
+[2024-10-26 11:00:39] local.INFO: dashboard function started.  
+[2024-10-26 11:01:38] local.INFO: dashboard function started.  
+[2024-10-26 11:02:40] local.INFO: dashboard function started.  
+[2024-10-26 11:03:01] local.INFO: approve campaign function started.  
+[2024-10-26 11:03:01] local.INFO: User:admin  
+[2024-10-26 11:03:02] local.INFO: approve campaign function started.  
+[2024-10-26 11:03:02] local.INFO: User:admin  
+[2024-10-26 11:03:02] local.INFO: Approve campaign displays data. {"query":[{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241026105751881","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-26 10:57:51","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"FSH_AP_TEL_INFOR_7121_20241009144429808","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FSH_AP_TEL_INFOR_7121","mobile_numbers":3,"call_entry_time":"2024-10-09 14:44:29","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"RAT_AP_TEL_PROMO_7128_20241008182933737","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"RAT_AP_TEL_PROMO_7128","mobile_numbers":3,"call_entry_time":"2024-10-08 18:29:33","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241008143602660","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-08 14:36:02","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"BRE_AP_TEL_PROMO_7112_20241007153323312","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"BRE_AP_TEL_PROMO_7112","mobile_numbers":3,"call_entry_time":"2024-10-07 15:33:23","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"MED_AP_TEL_PROMO_7125_20241007125013843","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"MED_AP_TEL_PROMO_7125","mobile_numbers":3,"call_entry_time":"2024-10-07 12:50:13","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"PUB_AP_TEL_PROMO_7130_20241007124949926","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"PUB_AP_TEL_PROMO_7130","mobile_numbers":3,"call_entry_time":"2024-10-07 12:49:49","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"QUA_AP_TEL_INFOR_7119_20241007124808477","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"QUA_AP_TEL_INFOR_7119","mobile_numbers":3,"call_entry_time":"2024-10-07 12:48:08","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241007124708218","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-07 12:47:08","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"HHM_AP_TEL_PROMO_7106_20241007111601987","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HHM_AP_TEL_PROMO_7106","mobile_numbers":3,"call_entry_time":"2024-10-07 11:16:01","call_status":"C"}},{"stdClass":{"user_id":null,"user_name":null,"campaign_name":"FOO_AP_TEL_PROMO_7108_20240904190832676","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FOO_AP_TEL_PROMO_7108","mobile_numbers":3,"call_entry_time":"2024-09-04 19:08:32","call_status":"C"}}]} 
+[2024-10-26 11:03:41] local.INFO: dashboard function started.  
+[2024-10-26 11:04:42] local.INFO: dashboard function started.  
+[2024-10-26 11:05:43] local.INFO: dashboard function started.  
+[2024-10-26 11:06:44] local.INFO: dashboard function started.  
+[2024-10-26 11:07:45] local.INFO: dashboard function started.  
+[2024-10-26 11:08:46] local.INFO: dashboard function started.  
+[2024-10-26 11:09:47] local.INFO: dashboard function started.  
+[2024-10-26 11:10:10] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:10:10] local.INFO: User:admin  
+[2024-10-26 11:10:10] local.INFO: User ID: 7  
+[2024-10-26 11:10:11] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:10:11] local.INFO: User:admin  
+[2024-10-26 11:10:11] local.INFO: User ID: 7  
+[2024-10-26 11:10:48] local.INFO: dashboard function started.  
+[2024-10-26 11:11:11] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:11:11] local.INFO: User:admin  
+[2024-10-26 11:11:11] local.INFO: User ID: 7  
+[2024-10-26 11:11:13] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:11:13] local.INFO: User:admin  
+[2024-10-26 11:11:13] local.INFO: User ID: 7  
+[2024-10-26 11:11:38] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:11:38] local.INFO: User:admin  
+[2024-10-26 11:11:38] local.INFO: User ID: 7  
+[2024-10-26 11:11:39] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:11:39] local.INFO: User:admin  
+[2024-10-26 11:11:39] local.INFO: User ID: 7  
+[2024-10-26 11:11:49] local.INFO: dashboard function started.  
+[2024-10-26 11:12:10] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:12:10] local.INFO: User:admin  
+[2024-10-26 11:12:10] local.INFO: User ID: 7  
+[2024-10-26 11:12:12] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:12:12] local.INFO: User:admin  
+[2024-10-26 11:12:12] local.INFO: User ID: 7  
+[2024-10-26 11:12:40] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:12:40] local.INFO: User:admin  
+[2024-10-26 11:12:40] local.INFO: User ID: 7  
+[2024-10-26 11:12:42] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:12:42] local.INFO: User:admin  
+[2024-10-26 11:12:42] local.INFO: User ID: 7  
+[2024-10-26 11:12:50] local.INFO: dashboard function started.  
+[2024-10-26 11:13:41] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:13:41] local.INFO: User:admin  
+[2024-10-26 11:13:41] local.INFO: User ID: 7  
+[2024-10-26 11:13:43] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:13:43] local.INFO: User:admin  
+[2024-10-26 11:13:43] local.INFO: User ID: 7  
+[2024-10-26 11:13:51] local.INFO: dashboard function started.  
+[2024-10-26 11:14:42] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:14:42] local.INFO: User:admin  
+[2024-10-26 11:14:42] local.INFO: User ID: 7  
+[2024-10-26 11:14:44] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:14:44] local.INFO: User:admin  
+[2024-10-26 11:14:44] local.INFO: User ID: 7  
+[2024-10-26 11:14:52] local.INFO: dashboard function started.  
+[2024-10-26 11:15:01] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:15:01] local.INFO: User:admin  
+[2024-10-26 11:15:01] local.INFO: User ID: 7  
+[2024-10-26 11:15:02] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:15:02] local.INFO: User:admin  
+[2024-10-26 11:15:02] local.INFO: User ID: 7  
+[2024-10-26 11:15:16] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:15:16] local.INFO: User:admin  
+[2024-10-26 11:15:16] local.INFO: User ID: 7  
+[2024-10-26 11:15:18] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:15:18] local.INFO: User:admin  
+[2024-10-26 11:15:18] local.INFO: User ID: 7  
+[2024-10-26 11:15:53] local.INFO: dashboard function started.  
+[2024-10-26 11:16:03] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:16:03] local.INFO: User:admin  
+[2024-10-26 11:16:03] local.INFO: User ID: 7  
+[2024-10-26 11:16:04] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:16:04] local.INFO: User:admin  
+[2024-10-26 11:16:04] local.INFO: User ID: 7  
+[2024-10-26 11:16:54] local.INFO: dashboard function started.  
+[2024-10-26 11:17:13] local.INFO: credit_management function started.  
+[2024-10-26 11:17:13] local.INFO: Logged in user: admin  
+[2024-10-26 11:17:13] local.INFO: User master ID: 1  
+[2024-10-26 11:17:14] local.INFO: credit_management function started.  
+[2024-10-26 11:17:14] local.INFO: Logged in user: admin  
+[2024-10-26 11:17:14] local.INFO: User master ID: 1  
+[2024-10-26 11:17:17] local.INFO: credit_management function started.  
+[2024-10-26 11:17:17] local.INFO: Logged in user: admin  
+[2024-10-26 11:17:17] local.INFO: User master ID: 1  
+[2024-10-26 11:17:18] local.INFO: credit_management function started.  
+[2024-10-26 11:17:18] local.INFO: Logged in user: admin  
+[2024-10-26 11:17:18] local.INFO: User master ID: 1  
+[2024-10-26 11:17:30] local.INFO: credit_management function started.  
+[2024-10-26 11:17:30] local.INFO: Logged in user: admin  
+[2024-10-26 11:17:30] local.INFO: User master ID: 1  
+[2024-10-26 11:17:31] local.INFO: credit_management function started.  
+[2024-10-26 11:17:31] local.INFO: Logged in user: admin  
+[2024-10-26 11:17:31] local.INFO: User master ID: 1  
+[2024-10-26 11:17:55] local.INFO: dashboard function started.  
+[2024-10-26 11:17:59] local.INFO: campaign_list function started.  
+[2024-10-26 11:17:59] local.INFO: User:admin  
+[2024-10-26 11:17:59] local.INFO: User ID: 7  
+[2024-10-26 11:17:59] local.INFO: campaign_list function started.  
+[2024-10-26 11:17:59] local.INFO: User:admin  
+[2024-10-26 11:17:59] local.INFO: User ID: 7  
+[2024-10-26 11:18:08] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:18:08] local.INFO: User:admin  
+[2024-10-26 11:18:08] local.INFO: User ID: 7  
+[2024-10-26 11:18:09] local.INFO: Ivr Approve function function started.  
+[2024-10-26 11:18:09] local.INFO: User:admin  
+[2024-10-26 11:18:09] local.INFO: User ID: 7  
+[2024-10-26 11:18:28] local.INFO: approve campaign function started.  
+[2024-10-26 11:18:28] local.INFO: User:admin  
+[2024-10-26 11:18:29] local.INFO: approve campaign function started.  
+[2024-10-26 11:18:29] local.INFO: User:admin  
+[2024-10-26 11:18:29] local.INFO: Approve campaign displays data. {"query":[{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241026105751881","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-26 10:57:51","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"FSH_AP_TEL_INFOR_7121_20241009144429808","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FSH_AP_TEL_INFOR_7121","mobile_numbers":3,"call_entry_time":"2024-10-09 14:44:29","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"RAT_AP_TEL_PROMO_7128_20241008182933737","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"RAT_AP_TEL_PROMO_7128","mobile_numbers":3,"call_entry_time":"2024-10-08 18:29:33","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241008143602660","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-08 14:36:02","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"BRE_AP_TEL_PROMO_7112_20241007153323312","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"BRE_AP_TEL_PROMO_7112","mobile_numbers":3,"call_entry_time":"2024-10-07 15:33:23","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"MED_AP_TEL_PROMO_7125_20241007125013843","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"MED_AP_TEL_PROMO_7125","mobile_numbers":3,"call_entry_time":"2024-10-07 12:50:13","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"PUB_AP_TEL_PROMO_7130_20241007124949926","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"PUB_AP_TEL_PROMO_7130","mobile_numbers":3,"call_entry_time":"2024-10-07 12:49:49","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"QUA_AP_TEL_INFOR_7119_20241007124808477","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"QUA_AP_TEL_INFOR_7119","mobile_numbers":3,"call_entry_time":"2024-10-07 12:48:08","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241007124708218","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-07 12:47:08","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"HHM_AP_TEL_PROMO_7106_20241007111601987","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HHM_AP_TEL_PROMO_7106","mobile_numbers":3,"call_entry_time":"2024-10-07 11:16:01","call_status":"C"}},{"stdClass":{"user_id":null,"user_name":null,"campaign_name":"FOO_AP_TEL_PROMO_7108_20240904190832676","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FOO_AP_TEL_PROMO_7108","mobile_numbers":3,"call_entry_time":"2024-09-04 19:08:32","call_status":"C"}}]} 
+[2024-10-26 11:18:32] local.INFO: campaign_list function started.  
+[2024-10-26 11:18:32] local.INFO: campaign_list function started.  
+[2024-10-26 11:18:32] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 11:18:43] local.INFO: summary_report function started.  
+[2024-10-26 11:18:43] local.INFO: User:admin  
+[2024-10-26 11:18:43] local.INFO: summary_report function started.  
+[2024-10-26 11:18:43] local.INFO: User:admin  
+[2024-10-26 11:18:43] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 11:18:47] local.INFO: summary_report function started.  
+[2024-10-26 11:18:47] local.INFO: User:admin  
+[2024-10-26 11:18:48] local.INFO: summary_report function started.  
+[2024-10-26 11:18:48] local.INFO: User:admin  
+[2024-10-26 11:18:48] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 11:18:56] local.INFO: detail_report function started.  
+[2024-10-26 11:18:56] local.INFO: dashboard function started.  
+[2024-10-26 11:18:57] local.INFO: detail_report function started.  
+[2024-10-26 11:18:57] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 11:18:57] local.INFO: call status:{"summary_report_id":107,"name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241026105751881","campaign_date":"2024-10-26","campaign_id":106,"context":null,"total_calls":3,"calldates":"2024-10-26 10:57:51","total_success":2,"total_failure":1,"report":"N"}  
+[2024-10-26 11:19:57] local.INFO: dashboard function started.  
+[2024-10-26 11:20:36] local.INFO: dashboard function started.  
+[2024-10-26 11:20:49] local.INFO: dashboard function started.  
+[2024-10-26 11:21:37] local.INFO: dashboard function started.  
+[2024-10-26 11:21:50] local.INFO: dashboard function started.  
+[2024-10-26 11:22:37] local.INFO: dashboard function started.  
+[2024-10-26 11:23:38] local.INFO: dashboard function started.  
+[2024-10-26 11:24:38] local.INFO: dashboard function started.  
+[2024-10-26 11:25:39] local.INFO: dashboard function started.  
+[2024-10-26 11:26:40] local.INFO: dashboard function started.  
+[2024-10-26 11:27:40] local.INFO: dashboard function started.  
+[2024-10-26 11:28:41] local.INFO: dashboard function started.  
+[2024-10-26 11:29:41] local.INFO: dashboard function started.  
+[2024-10-26 11:30:42] local.INFO: dashboard function started.  
+[2024-10-26 11:31:42] local.INFO: dashboard function started.  
+[2024-10-26 11:32:43] local.INFO: User session and DB login time mismatch. Redirecting to login.  
+[2024-10-26 11:35:02] local.INFO: user log query response: success  
+[2024-10-26 11:35:06] local.INFO: credit_management function started.  
+[2024-10-26 11:35:06] local.INFO: Logged in user: admin  
+[2024-10-26 11:35:06] local.INFO: User master ID: 1  
+[2024-10-26 11:35:07] local.INFO: credit_management function started.  
+[2024-10-26 11:35:07] local.INFO: Logged in user: admin  
+[2024-10-26 11:35:07] local.INFO: User master ID: 1  
+[2024-10-26 11:35:37] local.INFO: credit_management function started.  
+[2024-10-26 11:35:37] local.INFO: Logged in user: admin  
+[2024-10-26 11:35:37] local.INFO: User master ID: 1  
+[2024-10-26 11:36:07] local.INFO: credit_management function started.  
+[2024-10-26 11:36:07] local.INFO: Logged in user: admin  
+[2024-10-26 11:36:07] local.INFO: User master ID: 1  
+[2024-10-26 11:36:10] local.INFO: user log query response: success  
+[2024-10-26 11:36:22] local.INFO: campaign_list function started.  
+[2024-10-26 11:36:22] local.INFO: User:TDP  
+[2024-10-26 11:36:22] local.INFO: User ID: 54  
+[2024-10-26 11:36:22] local.INFO: campaign_list function started.  
+[2024-10-26 11:36:22] local.INFO: User:TDP  
+[2024-10-26 11:36:22] local.INFO: User ID: 54  
+[2024-10-26 11:36:37] local.INFO: credit_management function started.  
+[2024-10-26 11:36:37] local.INFO: Logged in user: admin  
+[2024-10-26 11:36:37] local.INFO: User master ID: 1  
+[2024-10-26 11:36:38] local.INFO: campaign_list function started.  
+[2024-10-26 11:36:39] local.INFO: campaign_list function started.  
+[2024-10-26 11:36:39] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 11:37:07] local.INFO: credit_management function started.  
+[2024-10-26 11:37:07] local.INFO: Logged in user: admin  
+[2024-10-26 11:37:07] local.INFO: User master ID: 1  
+[2024-10-26 14:28:49] local.INFO: credit_management function started.  
+[2024-10-26 14:28:49] local.INFO: Logged in user: admin  
+[2024-10-26 14:28:49] local.INFO: User master ID: 1  
+[2024-10-26 14:28:49] local.INFO: credit_management function started.  
+[2024-10-26 14:28:49] local.INFO: Logged in user: admin  
+[2024-10-26 14:28:49] local.INFO: User master ID: 1  
+[2024-10-26 14:28:57] local.INFO: credit_management function started.  
+[2024-10-26 14:28:57] local.INFO: Logged in user: admin  
+[2024-10-26 14:28:57] local.INFO: User master ID: 1  
+[2024-10-26 14:28:57] local.INFO: credit_management function started.  
+[2024-10-26 14:28:57] local.INFO: Logged in user: admin  
+[2024-10-26 14:28:57] local.INFO: User master ID: 1  
+[2024-10-26 14:29:01] local.INFO: credit_management function started.  
+[2024-10-26 14:29:01] local.INFO: Logged in user: admin  
+[2024-10-26 14:29:01] local.INFO: User master ID: 1  
+[2024-10-26 14:29:02] local.INFO: credit_management function started.  
+[2024-10-26 14:29:02] local.INFO: Logged in user: admin  
+[2024-10-26 14:29:02] local.INFO: User master ID: 1  
+[2024-10-26 14:29:10] local.INFO: campaign_list function started.  
+[2024-10-26 14:29:10] local.INFO: User:admin  
+[2024-10-26 14:29:10] local.INFO: User ID: 7  
+[2024-10-26 14:29:11] local.INFO: campaign_list function started.  
+[2024-10-26 14:29:11] local.INFO: User:admin  
+[2024-10-26 14:29:11] local.INFO: User ID: 7  
+[2024-10-26 14:29:19] local.INFO: Ivr Approve function function started.  
+[2024-10-26 14:29:19] local.INFO: User:admin  
+[2024-10-26 14:29:19] local.INFO: User ID: 7  
+[2024-10-26 14:29:20] local.INFO: Ivr Approve function function started.  
+[2024-10-26 14:29:20] local.INFO: User:admin  
+[2024-10-26 14:29:20] local.INFO: User ID: 7  
+[2024-10-26 14:29:27] local.INFO: Ivr Approve function function started.  
+[2024-10-26 14:29:27] local.INFO: User:admin  
+[2024-10-26 14:29:27] local.INFO: User ID: 7  
+[2024-10-26 14:29:28] local.INFO: Ivr Approve function function started.  
+[2024-10-26 14:29:28] local.INFO: User:admin  
+[2024-10-26 14:29:28] local.INFO: User ID: 7  
+[2024-10-26 14:29:31] local.INFO: campaign_list function started.  
+[2024-10-26 14:29:32] local.INFO: campaign_list function started.  
+[2024-10-26 14:29:32] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 14:29:44] local.INFO: summary_report function started.  
+[2024-10-26 14:29:44] local.INFO: User:admin  
+[2024-10-26 14:29:45] local.INFO: summary_report function started.  
+[2024-10-26 14:29:45] local.INFO: User:admin  
+[2024-10-26 14:29:45] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 14:29:55] local.INFO: credit_management function started.  
+[2024-10-26 14:29:55] local.INFO: Logged in user: admin  
+[2024-10-26 14:29:55] local.INFO: User master ID: 1  
+[2024-10-26 14:29:56] local.INFO: credit_management function started.  
+[2024-10-26 14:29:56] local.INFO: Logged in user: admin  
+[2024-10-26 14:29:56] local.INFO: User master ID: 1  
+[2024-10-26 14:29:58] local.INFO: credit_management function started.  
+[2024-10-26 14:29:58] local.INFO: Logged in user: admin  
+[2024-10-26 14:29:58] local.INFO: User master ID: 1  
+[2024-10-26 14:29:59] local.INFO: credit_management function started.  
+[2024-10-26 14:29:59] local.INFO: Logged in user: admin  
+[2024-10-26 14:29:59] local.INFO: User master ID: 1  
+[2024-10-26 15:07:21] local.INFO: approve campaign function started.  
+[2024-10-26 15:07:21] local.INFO: User:admin  
+[2024-10-26 15:07:22] local.INFO: approve campaign function started.  
+[2024-10-26 15:07:22] local.INFO: User:admin  
+[2024-10-26 15:07:22] local.INFO: Approve campaign displays data. {"query":[{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241026105751881","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-26 10:57:51","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"FSH_AP_TEL_INFOR_7121_20241009144429808","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FSH_AP_TEL_INFOR_7121","mobile_numbers":3,"call_entry_time":"2024-10-09 14:44:29","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"RAT_AP_TEL_PROMO_7128_20241008182933737","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"RAT_AP_TEL_PROMO_7128","mobile_numbers":3,"call_entry_time":"2024-10-08 18:29:33","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241008143602660","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-08 14:36:02","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"BRE_AP_TEL_PROMO_7112_20241007153323312","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"BRE_AP_TEL_PROMO_7112","mobile_numbers":3,"call_entry_time":"2024-10-07 15:33:23","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"MED_AP_TEL_PROMO_7125_20241007125013843","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"MED_AP_TEL_PROMO_7125","mobile_numbers":3,"call_entry_time":"2024-10-07 12:50:13","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"PUB_AP_TEL_PROMO_7130_20241007124949926","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"PUB_AP_TEL_PROMO_7130","mobile_numbers":3,"call_entry_time":"2024-10-07 12:49:49","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"QUA_AP_TEL_INFOR_7119_20241007124808477","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"QUA_AP_TEL_INFOR_7119","mobile_numbers":3,"call_entry_time":"2024-10-07 12:48:08","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241007124708218","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-07 12:47:08","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"HHM_AP_TEL_PROMO_7106_20241007111601987","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HHM_AP_TEL_PROMO_7106","mobile_numbers":3,"call_entry_time":"2024-10-07 11:16:01","call_status":"C"}},{"stdClass":{"user_id":null,"user_name":null,"campaign_name":"FOO_AP_TEL_PROMO_7108_20240904190832676","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FOO_AP_TEL_PROMO_7108","mobile_numbers":3,"call_entry_time":"2024-09-04 19:08:32","call_status":"C"}}]} 
+[2024-10-26 15:07:40] local.INFO: campaign_list function started.  
+[2024-10-26 15:07:40] local.INFO: User:admin  
+[2024-10-26 15:07:40] local.INFO: User ID: 7  
+[2024-10-26 15:07:40] local.INFO: campaign_list function started.  
+[2024-10-26 15:07:40] local.INFO: User:admin  
+[2024-10-26 15:07:40] local.INFO: User ID: 7  
+[2024-10-26 15:07:49] local.INFO: campaign_list function started.  
+[2024-10-26 15:07:49] local.INFO: User:admin  
+[2024-10-26 15:07:49] local.INFO: User ID: 7  
+[2024-10-26 15:07:50] local.INFO: campaign_list function started.  
+[2024-10-26 15:07:50] local.INFO: User:admin  
+[2024-10-26 15:07:50] local.INFO: User ID: 7  
+[2024-10-26 15:07:51] local.INFO: campaign_list function started.  
+[2024-10-26 15:07:51] local.INFO: User:admin  
+[2024-10-26 15:07:51] local.INFO: User ID: 7  
+[2024-10-26 15:07:56] local.INFO: campaign_list function started.  
+[2024-10-26 15:07:56] local.INFO: User:admin  
+[2024-10-26 15:07:56] local.INFO: User ID: 7  
+[2024-10-26 15:08:00] local.INFO: campaign_list function started.  
+[2024-10-26 15:08:00] local.INFO: User:admin  
+[2024-10-26 15:08:00] local.INFO: User ID: 7  
+[2024-10-26 15:08:02] local.INFO: campaign_list function started.  
+[2024-10-26 15:08:02] local.INFO: User:admin  
+[2024-10-26 15:08:02] local.INFO: User ID: 7  
+[2024-10-26 15:08:03] local.INFO: campaign_list function started.  
+[2024-10-26 15:08:03] local.INFO: User:admin  
+[2024-10-26 15:08:03] local.INFO: User ID: 7  
+[2024-10-26 15:08:26] local.INFO: context create function started.  
+[2024-10-26 15:08:31] local.INFO: campaign_list function started.  
+[2024-10-26 15:08:31] local.INFO: User:admin  
+[2024-10-26 15:08:31] local.INFO: User ID: 7  
+[2024-10-26 15:08:32] local.INFO: campaign_list function started.  
+[2024-10-26 15:08:32] local.INFO: User:admin  
+[2024-10-26 15:08:32] local.INFO: User ID: 7  
+[2024-10-26 15:08:35] local.INFO: campaign_list function started.  
+[2024-10-26 15:08:35] local.INFO: User:admin  
+[2024-10-26 15:08:35] local.INFO: User ID: 7  
+[2024-10-26 15:08:36] local.INFO: campaign_list function started.  
+[2024-10-26 15:08:36] local.INFO: User:admin  
+[2024-10-26 15:08:36] local.INFO: User ID: 7  
+[2024-10-26 15:08:37] local.INFO: campaign_list function started.  
+[2024-10-26 15:08:37] local.INFO: User:admin  
+[2024-10-26 15:08:37] local.INFO: User ID: 7  
+[2024-10-26 15:08:41] local.INFO: approve campaign function started.  
+[2024-10-26 15:08:41] local.INFO: User:admin  
+[2024-10-26 15:08:42] local.INFO: approve campaign function started.  
+[2024-10-26 15:08:42] local.INFO: User:admin  
+[2024-10-26 15:08:42] local.INFO: Approve campaign displays data. {"query":[{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241026105751881","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-26 10:57:51","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"FSH_AP_TEL_INFOR_7121_20241009144429808","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FSH_AP_TEL_INFOR_7121","mobile_numbers":3,"call_entry_time":"2024-10-09 14:44:29","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"RAT_AP_TEL_PROMO_7128_20241008182933737","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"RAT_AP_TEL_PROMO_7128","mobile_numbers":3,"call_entry_time":"2024-10-08 18:29:33","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241008143602660","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-08 14:36:02","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"BRE_AP_TEL_PROMO_7112_20241007153323312","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"BRE_AP_TEL_PROMO_7112","mobile_numbers":3,"call_entry_time":"2024-10-07 15:33:23","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"MED_AP_TEL_PROMO_7125_20241007125013843","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"MED_AP_TEL_PROMO_7125","mobile_numbers":3,"call_entry_time":"2024-10-07 12:50:13","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"PUB_AP_TEL_PROMO_7130_20241007124949926","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"PUB_AP_TEL_PROMO_7130","mobile_numbers":3,"call_entry_time":"2024-10-07 12:49:49","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"QUA_AP_TEL_INFOR_7119_20241007124808477","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"QUA_AP_TEL_INFOR_7119","mobile_numbers":3,"call_entry_time":"2024-10-07 12:48:08","call_status":"C"}},{"stdClass":{"user_id":54,"user_name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241007124708218","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HOS_AP_TEL_INFOR_7117","mobile_numbers":3,"call_entry_time":"2024-10-07 12:47:08","call_status":"C"}},{"stdClass":{"user_id":7,"user_name":"admin","campaign_name":"HHM_AP_TEL_PROMO_7106_20241007111601987","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"HHM_AP_TEL_PROMO_7106","mobile_numbers":3,"call_entry_time":"2024-10-07 11:16:01","call_status":"C"}},{"stdClass":{"user_id":null,"user_name":null,"campaign_name":"FOO_AP_TEL_PROMO_7108_20240904190832676","mobile":"9090909090,9090909091,9090909092","audio_url":"-","ivr_id":0,"context":"FOO_AP_TEL_PROMO_7108","mobile_numbers":3,"call_entry_time":"2024-09-04 19:08:32","call_status":"C"}}]} 
+[2024-10-26 15:08:46] local.INFO: campaign_list function started.  
+[2024-10-26 15:08:47] local.INFO: campaign_list function started.  
+[2024-10-26 15:08:47] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 7  
+[2024-10-26 15:09:26] local.INFO: user log query response: success  
+[2024-10-26 15:09:51] local.INFO: campaign_list function started.  
+[2024-10-26 15:09:51] local.INFO: User:TDP  
+[2024-10-26 15:09:51] local.INFO: User ID: 54  
+[2024-10-26 15:09:52] local.INFO: campaign_list function started.  
+[2024-10-26 15:09:52] local.INFO: User:TDP  
+[2024-10-26 15:09:52] local.INFO: User ID: 54  
+[2024-10-26 15:10:24] local.INFO: campaign_list function started.  
+[2024-10-26 15:10:24] local.INFO: campaign_list function started.  
+[2024-10-26 15:10:24] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 15:10:28] local.INFO: summary_report function started.  
+[2024-10-26 15:10:28] local.INFO: User:TDP  
+[2024-10-26 15:10:28] local.INFO: summary_report function started.  
+[2024-10-26 15:10:28] local.INFO: User:TDP  
+[2024-10-26 15:10:28] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 15:10:36] local.INFO: summary_report function started.  
+[2024-10-26 15:10:36] local.INFO: User:TDP  
+[2024-10-26 15:10:36] local.INFO: summary_report function started.  
+[2024-10-26 15:10:36] local.INFO: User:TDP  
+[2024-10-26 15:10:36] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 15:10:42] local.INFO: detail_report function started.  
+[2024-10-26 15:10:43] local.INFO: detail_report function started.  
+[2024-10-26 15:10:43] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 15:10:43] local.INFO: call status:{"summary_report_id":107,"name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241026105751881","campaign_date":"2024-10-26","campaign_id":106,"context":null,"total_calls":3,"calldates":"2024-10-26 10:57:51","total_success":2,"total_failure":1,"report":"N"}  
+[2024-10-26 15:10:53] local.INFO: dashboard function started.  
+[2024-10-26 15:28:06] local.INFO: campaign_list function started.  
+[2024-10-26 15:28:06] local.INFO: User:TDP  
+[2024-10-26 15:28:06] local.INFO: User ID: 54  
+[2024-10-26 15:28:07] local.INFO: campaign_list function started.  
+[2024-10-26 15:28:07] local.INFO: User:TDP  
+[2024-10-26 15:28:07] local.INFO: User ID: 54  
+[2024-10-26 15:28:25] local.INFO: campaign_list function started.  
+[2024-10-26 15:28:25] local.INFO: User:TDP  
+[2024-10-26 15:28:25] local.INFO: User ID: 54  
+[2024-10-26 15:28:26] local.INFO: campaign_list function started.  
+[2024-10-26 15:28:26] local.INFO: User:TDP  
+[2024-10-26 15:28:26] local.INFO: User ID: 54  
+[2024-10-26 15:28:35] local.INFO: campaign_list function started.  
+[2024-10-26 15:28:36] local.INFO: campaign_list function started.  
+[2024-10-26 15:28:36] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 15:28:41] local.INFO: summary_report function started.  
+[2024-10-26 15:28:41] local.INFO: User:TDP  
+[2024-10-26 15:28:42] local.INFO: summary_report function started.  
+[2024-10-26 15:28:42] local.INFO: User:TDP  
+[2024-10-26 15:28:42] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 15:31:19] local.INFO: summary_report function started.  
+[2024-10-26 15:31:19] local.INFO: User:TDP  
+[2024-10-26 15:31:20] local.INFO: summary_report function started.  
+[2024-10-26 15:31:20] local.INFO: User:TDP  
+[2024-10-26 15:31:20] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 15:31:26] local.INFO: detail_report function started.  
+[2024-10-26 15:31:27] local.INFO: detail_report function started.  
+[2024-10-26 15:31:27] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 15:31:27] local.INFO: call status:{"summary_report_id":107,"name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241026105751881","campaign_date":"2024-10-26","campaign_id":106,"context":null,"total_calls":3,"calldates":"2024-10-26 10:57:51","total_success":2,"total_failure":1,"report":"N"}  
+[2024-10-26 15:32:32] local.INFO: dashboard function started.  
+[2024-10-26 15:32:46] local.INFO: detail_report function started.  
+[2024-10-26 15:32:47] local.INFO: detail_report function started.  
+[2024-10-26 15:32:47] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 15:32:47] local.INFO: call status:{"summary_report_id":107,"name":"TDP","campaign_name":"HOS_AP_TEL_INFOR_7117_20241026105751881","campaign_date":"2024-10-26","campaign_id":106,"context":null,"total_calls":3,"calldates":"2024-10-26 10:57:51","total_success":2,"total_failure":1,"report":"N"}  
+[2024-10-26 15:33:02] local.INFO: campaign_list function started.  
+[2024-10-26 15:33:02] local.INFO: User:TDP  
+[2024-10-26 15:33:02] local.INFO: User ID: 54  
+[2024-10-26 15:33:03] local.INFO: campaign_list function started.  
+[2024-10-26 15:33:03] local.INFO: User:TDP  
+[2024-10-26 15:33:03] local.INFO: User ID: 54  
+[2024-10-26 15:33:13] local.INFO: campaign_list function started.  
+[2024-10-26 15:33:13] local.INFO: User:TDP  
+[2024-10-26 15:33:13] local.INFO: User ID: 54  
+[2024-10-26 15:33:26] local.INFO: campaign_list function started.  
+[2024-10-26 15:33:27] local.INFO: campaign_list function started.  
+[2024-10-26 15:33:27] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  
+[2024-10-26 15:33:33] local.INFO: summary_report function started.  
+[2024-10-26 15:33:33] local.INFO: User:TDP  
+[2024-10-26 15:33:34] local.INFO: summary_report function started.  
+[2024-10-26 15:33:34] local.INFO: User:TDP  
+[2024-10-26 15:33:34] local.INFO: Start Date: 26-10-2024, End Date: 26-10-2024, User ID: 54  

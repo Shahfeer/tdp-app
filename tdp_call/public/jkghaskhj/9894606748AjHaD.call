@@ -1,0 +1,8 @@
+Channel: SIP/sip1/9894606748
+Context: jkghaskhj
+Extension: 9894606748
+CallerId: 9000190001
+Archive: Yes
+MaxRetries: 1
+RetryTime: 900
+Account: 20230802060828AjHaD

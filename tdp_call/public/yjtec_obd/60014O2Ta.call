@@ -1,0 +1,6 @@
+Channel: SIP/sip1/6001
+Context: yjtec_obd
+Extension: 6001
+CallerId: 9000190001
+Archive: Yes
+Account: 202305100605334O2Ta
