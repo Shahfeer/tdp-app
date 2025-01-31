@@ -10,7 +10,7 @@ RUN apt-get update && apt-get install -y \
 RUN apt-get update && apt-get install -y libpng-dev \
     && docker-php-ext-install gd
 
-#################3## Install Composer
+###################3## Install Composer
 COPY composer.phar /usr/local/bin/composer
 RUN chmod +x /usr/local/bin/composer
 
