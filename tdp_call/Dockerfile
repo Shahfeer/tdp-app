@@ -35,7 +35,7 @@ RUN composer install --no-dev --optimize-autoloader
 ################### Set                      file permissions
 RUN chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache
 
-######## Expose port 80 for the web server
+############ Expose port 80 for the web server
 EXPOSE 80
 ### Start Apache server ok
 CMD ["apache2ctl", "-D", "FOREGROUND"]
