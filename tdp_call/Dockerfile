@@ -32,7 +32,7 @@ ENV DB_PASSWORD=Password@123
 ### Install PHP dependencies via Composer
 RUN composer install --no-dev --optimize-autoloader
 
-################### Set             file permissions
+################### Set                file permissions
 RUN chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache
 
 # Expose port 80 for the web server
